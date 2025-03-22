@@ -9,6 +9,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "^13.4.12"
+    "next": "^13.4.12",
+    "app-2": "workspace:*",
+    "shared": "workspace:*"
   }
 }
